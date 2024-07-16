@@ -8,5 +8,5 @@ This repository contains all the codes and data files necessary to replicate the
 
 ## Instructions
 1. Clone the repository to your Google Colab environment.
-2. Open BN_input_layer.ipynb to replicate the results.
-3. Use model_training_10fold.ipynb for your custom model training.
+2. Open **BN_input_layer.ipynb** to replicate the results.
+3. Use **model_training_10fold.ipynb** for your custom model training.
